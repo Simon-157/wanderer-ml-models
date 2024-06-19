@@ -1,0 +1,8 @@
+wanderer-fer/venv/
+wanderer-fer/haarcascade_frontalface_default.xml
+wanderer-ser/serenv/
+wanderer-ser/myenv/
+wanderer-fer/input/fer2013.csv
+wanderer-ser/data/
+wanderer-ser/data/archive.zip
+./wanderer-ser/serenv/

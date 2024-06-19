@@ -1,0 +1,8 @@
+flask
+tensorflow
+opencv-python
+numpy
+flask_socketio
+redis
+firebase-admin
+flask_cors
